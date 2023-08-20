@@ -34,7 +34,7 @@ Olá, tenho 33 anos, sou formado em Análise e Desenvolvimento de Sistemas, e re
 ## Principais Projetos
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-moraes7&repo=jornadadev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-moraes7&repo=jornadadev&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel-moraes7&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/daniel-moraes7/dio-lab-open-source)
