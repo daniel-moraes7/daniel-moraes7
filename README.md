@@ -4,8 +4,6 @@ Desenvolvedor **full-stack** focado em apps **offline-first** (PWA), visualizaç
 
 - 🔭 Atualmente: construindo dashboards e PWAs com sincronização offline/online e mapas interativos.
 - 🧪 Interesses: dados epidemiológicos, performance web, UX acessível, automação de ETL.
-- 📍 Brasil (BRT, America/Fortaleza)
-
 ---
 
 ## 🚀 Habilidades
