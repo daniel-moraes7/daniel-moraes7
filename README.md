@@ -1,6 +1,6 @@
 # Oi, eu sou o Daniel Moraes 👋
 
-Desenvolvedor **full-stack** focado em apps **offline-first** (PWA), visualização de dados e soluções para **vigilância em saúde**. Trabalho muito com **React + Vite + TypeScript**, mapas, e backends **Node.js + Express + Prisma** integrando **MySQL/PostgreSQL** e **Firebase**.
+Desenvolvedor **full-stack** focado em apps **offline-first** (PWA), sites interativos e responsivos, visualização e análise de dados e soluções para **vigilância em saúde**. Trabalho muito com **React + Vite + TypeScript**, mapas, e backends **Node.js + Express + Prisma** integrando **MySQL/PostgreSQL** e **Firebase**.
 
 - 🔭 Atualmente: construindo dashboards e PWAs com sincronização offline/online e mapas interativos.
 - 🧪 Interesses: dados epidemiológicos, performance web, UX acessível, automação de ETL.
